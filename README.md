@@ -1,5 +1,5 @@
 <h1 align="center" style="text-align: center;">
-  <img alt="Logo do Ignite" src="./src/assets/ignite-logo.svg" style="vertical-align: middle;">
+  <img alt="Logo do Ignite" src="./src/assets/Ignite-logo.svg" style="vertical-align: middle;">
   Ignite Feed
 </h1>
 
