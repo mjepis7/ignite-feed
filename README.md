@@ -49,4 +49,3 @@ $ npm run dev
 <h2 id="license">📝 Licença</h2>
 
 Este projeto está sob a licença MIT.
-# ignite-feed
