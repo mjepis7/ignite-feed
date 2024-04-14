@@ -12,7 +12,7 @@
 
 <h2 id="project">📄 Descrição</h2>
 
-O projeto é um sistema de feed que permite aos usuários criar, visualizar e interagir com posts. Os usuários têm a capacidade de adicionar, remover e aplaudir comentários.
+O projeto é um sistema de feed que permite aos usuários visualizar e interagir com posts. Os usuários têm a capacidade de adicionar, remover e aplaudir comentários.
 
 <p align="center">
    <img src="./public/ignite-feed.png" height="600">
