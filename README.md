@@ -15,7 +15,7 @@
 O projeto é um sistema de feed que permite aos usuários visualizar e interagir com posts. Os usuários têm a capacidade de adicionar, remover e aplaudir comentários.
 
 <p align="center">
-   <img src="./public/ignite-feed.png" height="600">
+   <img src="./public/ignite-feed.png" height=80%>
 </p>
 
 <h2 id="technologies">💻 Tecnologias</h2>
